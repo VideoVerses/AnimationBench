@@ -17,6 +17,8 @@ AnimationBench is a benchmark for evaluating image-to-video models on character-
 
 The benchmark organizes evaluation into three major pillars: **Disney's 12 Principles of Animation**, **IP / Character Preservation**, and **Broader Generative Video Quality**. It provides a more informative way to compare modern video generation models with respect to animation-specific behavior and is designed to better reflect human preferences in character-centric animation scenarios.
 
+https://github.com/user-attachments/assets/ccc9a865-c9e6-4543-9842-bc3c24b2e07d
+
 ## Overview
 
 - A dedicated benchmark for **character-centric animation** evaluation.
