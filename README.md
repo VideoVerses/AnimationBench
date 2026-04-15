@@ -15,7 +15,7 @@
 
 AnimationBench is a benchmark for evaluating image-to-video models on character-centric animation. Unlike realism-oriented video benchmarks, AnimationBench focuses on what matters most in animation: stylized character appearance, expressive motion, animation principles, and long-range character consistency.
 
-The benchmark organizes evaluation into three major pillars: **Disney's 12 Principles of Animation**, **IP / Character Preservation**, and **Broader Generative Video Quality**. It provides a more informative way to compare modern video generation models on animation-specific behavior, and is designed to better reflect human preference in character-centric animation scenarios.
+The benchmark organizes evaluation into three major pillars: **Disney's 12 Principles of Animation**, **IP / Character Preservation**, and **Broader Generative Video Quality**. It provides a more informative way to compare modern video generation models with respect to animation-specific behavior and is designed to better reflect human preferences in character-centric animation scenarios.
 
 ## Overview
 
@@ -35,8 +35,19 @@ AnimationBench goes beyond generic video quality metrics and focuses on animatio
 - **Broader Quality Dimensions**: semantic consistency, motion rationality, camera motion consistency, and other general video quality factors.
 
 ## Evaluation Results
-<img width="6444" height="3120" alt="radar_chart_combined" src="https://github.com/user-attachments/assets/da567ed7-e4a0-46c0-a80b-2c8895e80a5b" />
+<img width="1344" height="518" alt="image" src="https://github.com/user-attachments/assets/8daf790d-213f-4fcd-ab9c-c230cbd92a5c" />
 
+We report results following our top-down hierarchy: 
+- **IP Preservation**
+- **Animation Principles** 
+- **Broader Quality Dimensions**.
+
+**Abbrev.**: **Antic.** = Anticipation; **FTOA** = Follow Through and Overlapping Action; **SI/SO** = Slow In and Slow Out; **S&S** = Squash and Stretch; **DC** = Distinctive Content; **SD** = Solid Drawing; **DD** = Dynamic Degree; **SE** = Semantic Extension; **Sem.** = Semantic Consistency; **MR** = Motion Rationality; **CMC** = Camera Motion Consistency.
+
+<img width="1344" alt="image" src="https://github.com/user-attachments/assets/a3dbc245-cbd2-46aa-a5c4-2a26cda3138c" />
+
+## Human Alignment Results
+<img width="2187" height="658" alt="combined_plot" src="https://github.com/user-attachments/assets/3543b137-1a26-4f0e-98e6-daeab18e49cb" />
 
 ## Main Findings
 
