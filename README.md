@@ -54,9 +54,7 @@ We report results following our top-down hierarchy:
 ## Main Findings
 
 - AnimationBench reveals clear differences among modern video models on character-centric animation tasks.
-- Closed-source models generally outperform open-source alternatives on the benchmark.
-- Current models are relatively strong on basic semantic alignment and camera motion consistency.
-- Fine-grained character behavior, expressive motion, and long-term IP preservation remain challenging.
+- Current models are relatively strong on basic semantic alignment and camera motion consistency while fine-grained character behavior, expressive motion, and long-term IP preservation remain challenging.
 - The benchmark provides a more discriminative view of animation quality than realism-oriented evaluation settings.
 
 
