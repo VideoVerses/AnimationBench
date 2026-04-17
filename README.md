@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://animationbench.github.io/"><strong>Project Page</strong></a> |
-  <a href=""><strong>Paper</strong></a>
+  <a href="https://arxiv.org/abs/2604.15299"><strong>Paper</strong></a>
 </p>
 
 </div>
@@ -65,9 +65,13 @@ We report results following our top-down hierarchy:
 If you find AnimationBench useful in your research, please consider citing:
 
 ```bibtex
-@article{wu2026animationbench,
-  title   = {AnimationBench: Are Video Models Good at Character-Centric Animation?},
-  author  = {Leyi Wu and Pengjun Fang and Kai Sun and Yazhou Xing and Yinwei Wu and Songsong Wang and Ziqi Huang and Dan Zhou and Yingqing He and Ying-Cong Chen and Qifeng Chen},
-  year    = {2026}
+@misc{wu2026animationbenchvideomodelsgood,
+      title={AnimationBench: Are Video Models Good at Character-Centric Animation?}, 
+      author={Leyi Wu and Pengjun Fang and Kai Sun and Yazhou Xing and Yinwei Wu and Songsong Wang and Ziqi Huang and Dan Zhou and Yingqing He and Ying-Cong Chen and Qifeng Chen},
+      year={2026},
+      eprint={2604.15299},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2604.15299}, 
 }
 ```
